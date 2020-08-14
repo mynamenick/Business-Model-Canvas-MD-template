@@ -65,15 +65,16 @@ https://nickwailes123.wixsite.com/onepieceforum/forum
   <tr>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Cost Structure</a></b>
-      <p>What are the most important costs to our business?<br>
-      Which Key Resources are most expensive?<br>
-      Which Key Activities are most expensive?<br>
-      How does it coes to establish and run the business?</p>
+      <p>Highest costing, and must crucial items for startup, are our office space and office supplies and utilities. Cut many of the costs of cloud services with Amazon<br>
+      foregoing the projected advertisement deal.<br>  
+      Hiring on software engineers will cost us the highest for knowledge worker aspects. However, we'll be able to forgo these costs in initial year of startup with lower<br>
+      site traffic and developer patching/upkeep of our site. <br>
+      Forecasted costs to be in the red in initial years, but as projected site traffic increases past initial years, returns to be in the green.</p>
     </td>
     <td colspan="3">
       <b><a href="Financial_Plan.md">Revenue Streams</a></b>
       <p><br>Free to all users.</b><br>
-      <br>Subriptions (Monthly), offering remvoal of ad space alognside additional benefits to generate intial revenue.</br><br>
+      <br>Subscriptions (Monthly), offering remvoal of ad space alognside additional benefits to generate intial revenue.</br><br>
       <br>Users would have algorithim generated ads based on profile fourm discussions and posts. Additionally, ad spaces to generate revenue for the site with sponsored ads           within the homepage and heavily trafficed boards.</br><br>
       <br>Sponsored ad spaces to be contracted with online retrailers. Generate revenue based on percentage of site visits/purchases from re-direct from our forum.</br><br>
       <br>Autcion based ads, pay per amount of views/interations (i.e. $5 per 1000 views/interactions).</br>
